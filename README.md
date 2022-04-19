@@ -1,7 +1,7 @@
 # 目录拆分
 
 > 转换路径，第一个参数为待处理路径，第二个参数为平台，可传入
-> * win32 - windows默认路径，a\\b\\c形式
+> * win32 - windows默认路径，a\\\\b\\\\c形式
 > * posix - Linux/Unix/Mac OS, a/b/c形式
 ```javascript
 
