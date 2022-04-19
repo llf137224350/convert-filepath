@@ -1,0 +1,25 @@
+{
+  "name": "convert-filepath",
+  "version": "1.0.0",
+  "description": "转换目录",
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/llf137224350/convert-filepath.git"
+  },
+  "keywords": [
+    "path",
+    "convert"
+  ],
+  "author": "い 狂奔的蜗牛",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/llf137224350/convert-filepath/issues"
+  },
+  "homepage": "https://github.com/llf137224350/convert-filepath#readme",
+  "devDependencies": {
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

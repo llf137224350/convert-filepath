@@ -1,0 +1,54 @@
+Arguments: 
+  /Users/snail/.nvm/versions/node/v12.5.0/bin/node /Users/snail/.nvm/versions/node/v12.5.0/bin/yarn add dir-split --save
+
+PATH: 
+  /Users/snail/.nvm/versions/node/v12.5.0/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/snail/Desktop/code/other-2021/open_source/convert-path/node_modules/.bin:/Users/snail/Desktop/tools
+
+Yarn version: 
+  1.22.10
+
+Node version: 
+  12.5.0
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: ENOENT: no such file or directory, copyfile '/Users/snail/Library/Caches/Yarn/v6/npm-ansi-styles-3.2.1-41fbb20243e50b12be0f04b8dedbf07520ce841d-integrity/node_modules/ansi-styles/index.js' -> '/Users/snail/Desktop/code/other-2021/open_source/convert-path/node_modules/@babel/highlight/node_modules/ansi-styles/index.js'
+
+npm manifest: 
+  {
+    "name": "dir-split",
+    "version": "1.0.1",
+    "description": "目录拆分",
+    "main": "./index.js",
+    "scripts": {
+      "test": "jest"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/llf137224350/dir-split.git"
+    },
+    "keywords": [
+      "dir",
+      "split"
+    ],
+    "author": "い 狂奔的蜗牛",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/llf137224350/dir-split/issues"
+    },
+    "homepage": "https://github.com/llf137224350/dir-split#readme",
+    "devDependencies": {
+      "jest": "^26.6.3"
+    },
+    "publishConfig": {
+      "access": "public"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
